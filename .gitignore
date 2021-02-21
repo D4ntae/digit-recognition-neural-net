@@ -1,0 +1,9 @@
+data.py
+tempCodeRunnerFile.py
+test.py
+*.png
+gradient_check.py
+samples
+.vscode
+__pycache__
+/data

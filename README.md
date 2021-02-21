@@ -13,3 +13,6 @@ It was written after watching Andrew Ng's course on Coursera
 1. Run the file digit_recogniser.py
 2. Install any missing modules with pip install "module name"
 3. Try to draw inside the tkinter window
+
+#### If you want to train the network yourself
+1. Download the processed data from https://mega.nz/folder/GmIxQazJ#Y6DTKIRNmAx1eEnLrCUrVA

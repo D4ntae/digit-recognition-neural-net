@@ -16,3 +16,5 @@ It was written after watching Andrew Ng's course on Coursera
 
 #### If you want to train the network yourself
 1. Download the processed data from https://mega.nz/folder/GmIxQazJ#Y6DTKIRNmAx1eEnLrCUrVA
+2. Place the data in a data folder in the same folder as the file NeuralNetwork.py
+3. In the NeuralNetwork.py file run NeuralNetwork.train() which will every 100 iterations save the trained parameters
